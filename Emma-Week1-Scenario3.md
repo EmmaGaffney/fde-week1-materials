@@ -209,6 +209,8 @@ Equivalent to ~9 FTE-hours/week redeployed to fraud investigation, escalations, 
 
 ## Assumptions & Unknowns
 
+Note: All assumptions are explicitly introduced to enable sizing and decision logic. They are placeholders and must be validated during pilot.
+
 ### Assumptions Introduced (Not in Scenario)
 
 **Volume & fraud assumptions:**
